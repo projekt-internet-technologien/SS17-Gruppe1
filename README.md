@@ -5,7 +5,7 @@ This project is for the University of Luebeck and was written n the course of pr
 ## Getting Started
 
 To get started and deploy this in your own enviroment make sure that you will have the right setup. The setup and circuit is described in this little image.
-![Circuit of the System](https://raw.githubusercontent.com/projekt-internet-technologien/SS17-Gruppe1/curcuit.jpg)
+![Circuit of the System](https://github.com/projekt-internet-technologien/SS17-Gruppe1/curcuit.jpg)
 
 ### Prerequisites
 
